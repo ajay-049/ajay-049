@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Ajay Gupta 👋
 
-<!--
-**ajay-049/ajay-049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer | Building real systems
 
-Here are some ideas to get you started:
+🔭 Currently working on: Terraform for Azure infra
+🌱 Learning: Kubernetes, Python automation
+💼 Open to: DevOps | Cloud Support | SysAdmin roles
+📍 Noida, UP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- 🌐 [Pdfora](https://pdfora.com) — Live PDF tools platform
+- ☁️ [AWS S3 + CloudFront CI/CD](https://github.com/ajay-049)
+- 🐳 [Docker Hub](https://hub.docker.com/r/ajay049/pdfora)
+
+## This Week I Learned
+<!-- Updated every week -->
+- Terraform Azure provider configuration
+- Docker multi-stage build optimization
