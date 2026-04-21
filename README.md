@@ -64,11 +64,7 @@ Recently, I have been focused on:
 * File management with role-based access control
 * Used by 80+ users in production
 
----
-
-## 📈 GitHub Stats
-
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+ 
 
 ---
 
